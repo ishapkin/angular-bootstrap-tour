@@ -418,7 +418,7 @@
                 scope: true,
                 require: '^tour',
                 link: function (scope, element, attrs, ctrl) {
-
+                    element = $(element);
                     //Assign required options
                     var step = {
                             element: element,
