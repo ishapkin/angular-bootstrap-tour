@@ -1,6 +1,6 @@
 {
-    "name": "angular-bootstrap-tour",
-    "version": "0.3.4-rc.2",
+    "name": "ishapkin/angular-bootstrap-tour",
+    "version": "0.3.4-rc.3",
     "main": "dist/angular-bootstrap-tour.js",
     "ignore": [
         ".editorconfig",
