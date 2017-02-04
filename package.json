@@ -1,6 +1,6 @@
 {
   "name": "angular-bootstrap-tour",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "description": "angular-bootstrap-tour scaffolded with generator-microjs v0.1.2.",
   "author": {
     "name": "",
@@ -23,11 +23,16 @@
       "name": "Daniel Lamb",
       "email": "dlamb.open.source@gmail.com",
       "url": "https://github.com/daniellmb"
+    },
+    {
+      "name": "Shapkin Ilya",
+      "email": "i.m.shapkin@yandex.ru",
+      "url": "https://github.com/ishapkin"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/benmarch/angular-bootstrap-tour.git"
+    "url": "https://github.com/ishapkin/angular-bootstrap-tour.git"
   },
   "main": "dist/angular-bootstrap-tour.js",
   "scripts": {
